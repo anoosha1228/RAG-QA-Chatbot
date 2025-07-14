@@ -41,4 +41,4 @@ This project focuses on building an **Information Retriever** using Python. It d
 - Initialize retriever.
 - Ask a query and retrieve relevant chunks or answers.
 
---=
+---
